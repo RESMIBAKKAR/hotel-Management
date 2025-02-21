@@ -19,14 +19,7 @@ A full admin panel created to perform all CRUD operations for managing hotel roo
 - Database Migration/Seeding
 - Authentication
 
-## Demo
 
-- Reservation
-![userside](https://github.com/ramezcode1/hotelManagement/assets/135148978/fc2feeb3-c21c-4dc4-83b8-2dc115225386)
-
-
-- Dashboard
-  ![dashboard](https://github.com/ramezcode1/hotelManagement/assets/135148978/f876a480-efb4-4482-b78f-bbc9859d4e53)
 
 
 ## Features
@@ -51,15 +44,3 @@ Admin Side:
 - Run php artisan key:generate
 - Run php artisan migrate --seed (it has some seeded data for testing)
 - php artisan serve
-
-## Default User account
-- email:       user@gmail.com
-- password:    Password@1
-
-## Default Admin account
-- email:       admin@gmail.com
-- password:    Password@1
-
-## ER Diagram
-![ERD](https://github.com/ramezcode1/hotelManagement/assets/135148978/01e6c289-e7b1-4847-932c-be6270ef47ee)
-
