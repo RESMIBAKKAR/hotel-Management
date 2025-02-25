@@ -44,3 +44,11 @@ Admin Side:
 - Run php artisan key:generate
 - Run php artisan migrate --seed (it has some seeded data for testing)
 - php artisan serve
+
+## Default User account
+- email:       user@gmail.com
+- password:    Password@1
+
+## Default Admin account
+- email:       admin@gmail.com
+- password:    Password@1
